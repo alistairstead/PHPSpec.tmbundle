@@ -2,17 +2,17 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>content</key>
-    <string>public function it${1:does something}() {
+	<key>content</key>
+	<string>public function it${1|DoesSomething|}() {
     $0
 }</string>
-    <key>name</key>
-    <string>it (does something)</string>
-    <key>scope</key>
-    <string>source.php</string>
-    <key>tabTrigger</key>
-    <string>it</string>
-    <key>uuid</key>
-    <string>23EA3D90-B4C7-41C0-9E60-EA46966A4A57</string>
+	<key>name</key>
+	<string>it (does something)</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>it</string>
+	<key>uuid</key>
+	<string>23EA3D90-B4C7-41C0-9E60-EA46966A4A57</string>
 </dict>
 </plist>

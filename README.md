@@ -1,8 +1,18 @@
 # PHPSpec TextMate bundle #
 
+A TextMate bundle to support the use of PHPSpec for TDD. Provides templates and snippets for the full API of PHPSpec.
+
+## Roadmap ##
+
+* Test runner and HTML output within TextMate
+* Autorun integration
+
 ## Prerequisites ##
 
-The PEAR requires PHPUnit
+Requires PHPSpec
+
+    $ sudo pear channel-discover pear.phpspec.net
+    $ sudo pear install phpspec/PHPSpec
 
 ## Installation ##
 

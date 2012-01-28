@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>nyvfgnve.fgrnq@qrfvtaqvfpybfher.pbz</string>
+	<key>contactName</key>
+	<string>Alistair Stead</string>
+	<key>description</key>
+	<string>TextMate bundle for PHPSpec.</string>
+	<key>name</key>
+	<string>PHPSpec</string>
+	<key>uuid</key>
+	<string>AF01A632-49D1-41B2-9055-815916CA13CB</string>
+</dict>
+</plist>

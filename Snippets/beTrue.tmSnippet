@@ -3,17 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>class Describe${1|ClassName|} extends \PHPSpec\Context
-{
-    $0
-}</string>
+	<string>beTrue(\$${1|expected|})</string>
 	<key>name</key>
-	<string>Describe (ClassName)</string>
+	<string>beTrue</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>desc</string>
+	<string>be</string>
 	<key>uuid</key>
-	<string>660B663C-F31B-4811-8970-45EE38238082</string>
+	<string>3AB6E90D-4F05-48C7-954B-0EC3E7F0F3BF</string>
 </dict>
 </plist>

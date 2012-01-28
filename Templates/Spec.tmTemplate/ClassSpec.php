@@ -1,6 +1,6 @@
 <?php
 
-class Describe${TM_NEW_FILE_BASENAME} extends \PHPSpec\Context 
+class Describe${TM_NEW_FILE_BASENAME} extends \PHPSpec\Context
 {
     public function before() {
     }

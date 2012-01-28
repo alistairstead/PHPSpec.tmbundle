@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>\$${1|member|} = \$this-&gt;spec(new ${2|ClassName|});</string>
+	<string>\$this-&gt;spec(new ${1:ClassName})</string>
 	<key>name</key>
 	<string>spec</string>
 	<key>scope</key>

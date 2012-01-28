@@ -3,9 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>public function before() {
+	<string>public function before()
+{
     $0
-}</string>
+}
+</string>
 	<key>name</key>
 	<string>before</string>
 	<key>scope</key>
@@ -13,6 +15,6 @@
 	<key>tabTrigger</key>
 	<string>bef</string>
 	<key>uuid</key>
-	<string>23EA3D90-B4C8-41C0-9E60-EA46966A4A57</string>
+	<string>06B2B49A-DEEE-4A47-AEBC-725B63D8D735</string>
 </dict>
 </plist>

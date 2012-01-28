@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>haveAn${1|Property|}()</string>
+	<string>haveAn${1:Property}()</string>
 	<key>name</key>
 	<string>haveAn</string>
 	<key>scope</key>

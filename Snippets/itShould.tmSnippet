@@ -3,11 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>public function itShould${1|DoSomething|}() {
+	<string>public function itShould${1:DoSomething}()
+{
     $0
 }</string>
 	<key>name</key>
-	<string>itShould (do something)</string>
+	<string>itShould</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>beA${1|Object|}()</string>
+	<string>beA${1:Object}()</string>
 	<key>name</key>
 	<string>beA (Object)</string>
 	<key>scope</key>

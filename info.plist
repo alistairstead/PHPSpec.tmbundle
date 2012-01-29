@@ -7,7 +7,7 @@
 	<key>contactName</key>
 	<string>Alistair Stead</string>
 	<key>description</key>
-	<string>TextMate bundle for PHPSpec.</string>
+	<string>TextMate bundle for PHPSpec. Including snippets and integrated phpspec runner.</string>
 	<key>mainMenu</key>
 	<dict>
 		<key>items</key>

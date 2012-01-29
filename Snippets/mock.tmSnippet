@@ -3,14 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>\$${1:spec} = \$this-&gt;spec(new ${1:ClassName});</string>
+	<string>\$${1:mock} = \$this-&gt;mock(new ${2:Class});
+</string>
 	<key>name</key>
-	<string>spec</string>
-	<key>scope</key>
-	<string>source.php</string>
+	<string>mock</string>
 	<key>tabTrigger</key>
-	<string>spec</string>
+	<string>moc</string>
 	<key>uuid</key>
-	<string>BB321D85-0B48-4C15-AB18-D5C0DE1EB605</string>
+	<string>DF5CC932-E257-4F31-A7A8-FA2AD51EE184</string>
 </dict>
 </plist>

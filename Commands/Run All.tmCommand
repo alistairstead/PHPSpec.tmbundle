@@ -17,7 +17,7 @@ PHPSpec::Mate::Runner.new.run_all STDOUT</string>
 	<key>keyEquivalent</key>
 	<string>@R</string>
 	<key>name</key>
-	<string>Run All</string>
+	<string>Run All Examples in Project</string>
 	<key>output</key>
 	<string>showAsHTML</string>
 	<key>outputCaret</key>

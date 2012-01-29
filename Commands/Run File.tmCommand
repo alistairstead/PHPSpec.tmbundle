@@ -19,7 +19,7 @@ PHPSpec::Mate::Runner.new.run_file STDOUT
 	<key>keyEquivalent</key>
 	<string>@R</string>
 	<key>name</key>
-	<string>Run File</string>
+	<string>Run All Examples Current File</string>
 	<key>output</key>
 	<string>showAsHTML</string>
 	<key>outputCaret</key>

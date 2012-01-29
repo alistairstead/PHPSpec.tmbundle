@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>#!/usr/bin/env ruby -wKU
+STDOUT.sync = true # flush output as we write it
+
+require ENV['TM_BUNDLE_SUPPORT'] + "/lib/phpspec/mate/runner"
+PHPSpec::Mate::Runner.new.run_all STDOUT</string>
+	<key>input</key>
+	<string>none</string>
+	<key>inputFormat</key>
+	<string>text</string>
+	<key>keyEquivalent</key>
+	<string>@R</string>
+	<key>name</key>
+	<string>Run All</string>
+	<key>output</key>
+	<string>showAsHTML</string>
+	<key>outputCaret</key>
+	<string>afterOutput</string>
+	<key>outputFormat</key>
+	<string>html</string>
+	<key>outputLocation</key>
+	<string>newWindow</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>uuid</key>
+	<string>CFC43068-F401-4AE9-ADD0-0E87A3D1D18F</string>
+	<key>version</key>
+	<string>2</string>
+</dict>
+</plist>

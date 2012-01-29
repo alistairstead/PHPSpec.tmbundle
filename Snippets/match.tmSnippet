@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>beLessThanOrEqualTo(\$${1:expected})$0</string>
+	<string>match(${1:expected})$0</string>
 	<key>name</key>
-	<string>beLessThanOrEqualTo </string>
+	<string>match</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>be</string>
+	<string>match</string>
 	<key>uuid</key>
-	<string>1629B2A1-568F-456E-97E1-E6F70438CBD3</string>
+	<string>FA0474A8-EC06-4AFD-9F75-AED582D4E6EC</string>
 </dict>
 </plist>

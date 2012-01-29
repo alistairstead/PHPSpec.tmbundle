@@ -9,7 +9,7 @@
 }
 </string>
 	<key>name</key>
-	<string>it</string>
+	<string>it (Does Something)</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>

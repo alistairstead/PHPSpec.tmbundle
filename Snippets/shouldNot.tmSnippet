@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>shouldNot-&gt;</string>
+	<string>shouldNot-&gt;$0</string>
 	<key>name</key>
 	<string>shouldNot</string>
 	<key>scope</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>beEmpty(\$${1:expected})</string>
+	<string>beEmpty(\$${1:expected})$0</string>
 	<key>name</key>
 	<string>beEmpty</string>
 	<key>scope</key>

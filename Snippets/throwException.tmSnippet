@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>beLessThanOrEqualTo(\$${1:expected})$0</string>
+	<string>throwException('${1:ExpectedExceptionType}', '${2:message}')$0</string>
 	<key>name</key>
-	<string>beLessThanOrEqualTo </string>
+	<string>throwException</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>
-	<string>be</string>
+	<string>throw</string>
 	<key>uuid</key>
-	<string>1629B2A1-568F-456E-97E1-E6F70438CBD3</string>
+	<string>6E54154E-F482-4203-8A90-DA8A7E04EBBF</string>
 </dict>
 </plist>

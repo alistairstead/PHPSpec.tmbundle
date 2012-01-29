@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>\$${1:mock} = \$this-&gt;mock(new ${2:Class});
+	<string>\$${1:mock} = \$this-&gt;mock(new ${2:Class});$0
 </string>
 	<key>name</key>
 	<string>mock</string>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>beEqualTo(\$${1:expected})</string>
+	<string>beEqualTo(\$${1:expected})$0</string>
 	<key>name</key>
 	<string>beEqualTo</string>
 	<key>scope</key>

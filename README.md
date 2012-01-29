@@ -4,7 +4,6 @@ A TextMate bundle to support the use of PHPSpec for TDD. Provides templates and 
 
 ## Roadmap ##
 
-* Test runner and HTML output within TextMate
 * Autorun integration
 
 ## Prerequisites ##
@@ -28,17 +27,17 @@ Either way, restart TextMate or select "Reload Bundles" from the Bundles >> Bund
 
 You can run the phpspec commands within TextMate. The output will be presented in a new window using the 'textmate' formatter. If you wish to override the formatter for the results you can specify the formatter value in a TextMate variable TM_PHPSPEC_FORMATTER.
 
-### Run All ###
+### Run All Examples Project ###
 
 This will run all examples within the project.
 
-### Run File ###
+### Run All Examples Current File ###
 
 This command will run all the examples in the current active file.
 
-### Run the Selected Example
+### Run Selected Example
 
-This command will run only the selected example.
+This command will run only the example selected within the current active file.
 
 
 

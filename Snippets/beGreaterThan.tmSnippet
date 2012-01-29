@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>beGreaterThan(\$${1:expected})</string>
+	<string>beGreaterThan(\$${1:expected})$0</string>
 	<key>name</key>
 	<string>beGreaterThan</string>
 	<key>scope</key>
